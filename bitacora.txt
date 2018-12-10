@@ -8,3 +8,8 @@
 ====== ============================ ================================
 (01)	clone	
 (03)	add + commit + push
+(09)	add bitacora.txt + commit -m "Paso 09"
+(10)	checkout develop
+(11)	checkout -b feature/Ticket221
+(15)	commit -m "Paso 15"
+(16)	checkout feature/ticket221 
