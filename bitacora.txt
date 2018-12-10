@@ -7,7 +7,8 @@
  Paso   Acción                       Notas
 ====== ============================ ================================
 (01)	clone	
-(03)	add + commit + push
-(05)	add + commit -m "Paso 05"
+(03)	add bitacora.txt + commit -m "Nombre y apellidos" + push
+(05)	add bitacora.txt + commit -m "Paso 05"
 (06)	branch develop
 (07)	checkout -b feature/Ticket220
+(13)	stash + checkout feature/Ticket220
