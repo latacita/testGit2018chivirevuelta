@@ -23,5 +23,10 @@
 (20)	branch feature/Ticket222
 (21)	checkout feature/Ticket220
 (22)	fast-forward
+(23)	add bitacora.txt + commit -m "Paso 23"
+(24)	checkout develop
+(25)	merge feature/Ticket220 	seleccionando create commit even if fast-forward is possible
+(26)	merge feature/Ticket221 	Seleccionando create commit even if fast-forward is possible. Salen conflictos a resolver
+
 
 
