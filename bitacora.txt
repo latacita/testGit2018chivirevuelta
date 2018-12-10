@@ -32,6 +32,8 @@
 (30)	push				sin marcar push all tags
 (31)	checkout feature/Ticket222
 (32)	checkout develop bitacora.txt
-
+(34)	add bitacora.txt + commit -m "Paso 34"
+(35)	checkout develop + merge feature/Ticket222		Seleccionando create commit even if fast-forward is possible. Salen conflictos
+(36)	checkout master + merge develop				Seleccionando create commit even if fast-forward is possible
 
 
